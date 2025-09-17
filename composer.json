@@ -1,7 +1,5 @@
 {
-    "name": "myproject/simple-php-project",
+    "name": "myproject/ardian",
     "description": "Proyek PHP sederhana menggunakan Composer",
-    "require": {
-        "guzzlehttp/guzzle": "^7.10"
-    }
+    "require": {}
 }

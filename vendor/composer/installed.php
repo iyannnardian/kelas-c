@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'myproject/simple-php-project',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '6d0685788d5685bebd977ea8699945a518b2a384',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'myproject/simple-php-project' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '6d0685788d5685bebd977ea8699945a518b2a384',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
